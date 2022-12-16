@@ -1,0 +1,21 @@
+# Directories to ignore
+
+/.vs
+/Website/Reports
+# Files to ignore
+*.feature.cs
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+TestResults/
